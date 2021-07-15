@@ -1,0 +1,89 @@
+.main-container{
+    width: 950px;
+    height: 350px;
+     border: 2px solid blanchedalmond; 
+     margin: 0 auto;
+
+}
+.header{
+    margin: 0 auto;
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.header-plan{
+    background-color: blanchedalmond;
+    font-weight: 600;
+}
+.header-info{
+    display: flex;
+    background-color: orange;
+}
+
+.header-lesson{
+    margin-right: 80px;
+    color: white;
+    font-weight: 600;
+}
+.header-title{
+    margin-right: 580px;
+    color: white;
+    font-weight: 600;
+   
+}
+.header-date{
+    color: white;
+    font-weight: 600;
+}
+.container{
+    margin: 0 auto;
+    height: 300px;
+    width: 900px;
+    /* border: 2px solid orange; */
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.border{
+    border-bottom: 2px solid blanchedalmond;
+    padding-bottom: 4px;
+}
+
+.lesson-number-treseptions-LESSON{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+}
+
+
+.gen{
+    display: flex;
+    flex-direction: column;
+    margin-left: 140px;
+}
+
+.alignment{
+    display:flex;
+}
+
+.absolute{
+    display: flex;
+    flex-direction: column;
+    position:absolute;
+}
+
+.date-mod{
+    margin-right: 100px;
+}
+
+.blue{
+    color:cornflowerblue;
+    font-weight: 600;
+}
+
+.bold{
+    font-weight: 600;
+}
